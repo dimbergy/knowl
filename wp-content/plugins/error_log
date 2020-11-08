@@ -1,0 +1,8 @@
+[10-Jun-2018 23:28:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/knowl/public_html/wp-content/plugins/hello.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/knowl/public_html/wp-content/plugins/hello.php on line 60
+[15-Jul-2018 12:38:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/knowl/public_html/wp-content/plugins/hello.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/knowl/public_html/wp-content/plugins/hello.php on line 60
